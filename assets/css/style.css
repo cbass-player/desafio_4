@@ -1,0 +1,40 @@
+h5 {
+    font-family: 'Roboto', sans-serif;
+}
+
+p, small {
+    font-family: 'Roboto', sans-serif;
+    font-weight:300;
+}
+
+medium {
+    font-family: 'Roboto', sans-serif;
+    font-weight:500;
+}
+
+input::placeholder {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+}
+
+.divider {
+    position: relative;
+    border-bottom: 1px solid #f0f0f0;
+    margin-bottom: 0.5em;
+    margin-top: 0.5em;
+}
+
+.footer {
+    padding-top: 1em;
+    text-align: center;
+}
+
+.f-logo {
+    width: 82px;
+    height: 24px;
+}
+
+.footer p {
+    padding: 1em 2em 1em 2em;
+    margin: 0;
+}
